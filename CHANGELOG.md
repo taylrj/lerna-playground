@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.1](https://github.com/taylrj/lerna-playground/compare/v1.1.0...v1.1.1) (2019-11-28)
+
+
+### Bug Fixes
+
+* update index.js ([d2e8a53](https://github.com/taylrj/lerna-playground/commit/d2e8a53e5a6f49cf5853c8e2074d9f1b38922508))
+
+
+
+
+
+## [1.1.1](https://github.com/taylrj/lerna-playground/compare/v1.1.0...v1.1.1) (2019-11-28)
+
+
+### Bug Fixes
+
+* update index.js ([d2e8a53](https://github.com/taylrj/lerna-playground/commit/d2e8a53e5a6f49cf5853c8e2074d9f1b38922508))
+
+
+
+
+
 # 1.1.0 (2019-11-28)
 
 
